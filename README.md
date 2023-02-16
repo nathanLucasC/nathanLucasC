@@ -1,4 +1,5 @@
 ### Hi there 👋
+![tumblr_668d105fc2701311bfcef33d2771a40e_b22c8e6e_1280](https://user-images.githubusercontent.com/101707328/219323647-00afa86b-ebd6-4768-b6b2-39f8c1c037fa.gif)
 
 <!--
 **nathanLucasC/nathanLucasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
